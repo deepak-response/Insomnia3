@@ -1,0 +1,24 @@
+_id: req_de433bb9a3814e65bfc3a3447a95e5b3
+type: Request
+parentId: wrk_4b9bc18622c7450e98b154b32caf3038
+modified: 1682592136941
+created: 1682592136941
+url: "{{ _.base_url }}/pets"
+name: List all pets
+description: ""
+method: GET
+body: {}
+parameters:
+  - name: limit
+    disabled: true
+    value: "0"
+headers: []
+authentication: {}
+metaSortKey: -1682592136941
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
